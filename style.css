@@ -56,6 +56,10 @@ html, body {
 
 #earth {
     position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: blue;
     top: 50%;
     left: 0;
     transform: translateY(-50%);
